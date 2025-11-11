@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1
+https://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8
+#EXTINF:-2
+https://vod-content.plexvideos.com/streams/67eba72911ad92dff3804e5d/375ad40d-c6a5-4067-94fe-47ffa438fb8c/stream_2.m3u8
+#EXTINF:-3
+https://vod-content.plexvideos.com/streams/62c06c455e5872e9509959c7/4f26ffd5-6511-4d05-9da3-b7974f01ea96/stream_4.m3u8
+#EXTINF:-4
+https://d1muf25xa11so8hp11.s27-usa-cloudfront-net.online/token/72a1def794e4066948083c8380dd6f1d/megapix.m3u8
+#EXTINF:-5
+https://bdrgqp.6670391863.store:8443/hls/xt4p2tyjgzsp4t.m3u8?s=GVMHAXV3Prj0H9zlyZS1mg&e=1762842467
+#EXTINF:-6
+https://d1muf25xa11so8hp11.s27-usa-cloudfront-net.online/token/7cab2d64a7f192e8be68e54fc0b16152/espn.m3u8
